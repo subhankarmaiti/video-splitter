@@ -22,6 +22,6 @@ for index in range(len(times)):
         if(len(str(index))<2) :
             title = '0'+str(index)+' '+title
         else :
-            title = str(index)+title
+            title = str(index)+' '+title
         print(title)
         ffmpeg_extract_subclip(required_video_file, starttime, endtime, targetname=title + ".mp4")
