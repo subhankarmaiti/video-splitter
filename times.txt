@@ -1,0 +1,48 @@
+00:00​:00  Introduction
+00:02:04​  install Java JDK
+00:05:34​  Write First App
+00:16:36​  Data Types: Define Variables
+00:32:16  Input data - ReadLine
+00:40:00  Comments
+00:42:47​  Swap Numbers HW
+00:48:02​  Math Operations
+00:55:00​  Order Of Operations
+01:05:12​  Modify Variable Value
+01:09:38​  Find My Age
+01:15:36​  Debug your code
+01:19:19​  Logic Condition
+01:35:13​  Decision Making: Simple IF
+01:44:14  Decision Making: IF-ELSE
+01:52:43​  Decision Making: When
+01:57:02​  Decision Making: Nested IF
+02:00:27​  Decision Making: Expression If and When
+02:05:20​  Simple For loop
+02:16:48​  while Do While
+02:26:36  Nested Loops and Condition
+02:43:03  Returns and Jumps
+02:51:10​  pre- Rename Collections
+02:53:52​  Collections: Array
+03:09:52  Collections: Strings
+03:21:19​  Collections: ArrayList
+03:31:27  Collections: LinkedList
+03:34:25  Collections: HashMap
+03:41:29​  Improve code quality
+03:55:40​  mutable vs Immutable
+04:01:44  Functions and var arg
+04:18:33  Function Overloading
+04:24:11​  Polymorphism
+04:28:45  Scope
+04:36:59​  Why OOP
+04:40:06  Simple Class
+05:00:59​  constructor
+05:12:33​  Inheritance
+05:19:43​  Visibility Modifiers 1
+05:23:57  Visibility Modifiers 2
+05:28:11​  Overriding
+05:31:11  Lamda
+05:38:35  Super and This
+05:42:09​  Extension
+05:50:11​  Data Class
+05:53:17  Interface
+06:02:53​  Delegation
+06:10:00  End
